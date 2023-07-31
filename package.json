@@ -1,8 +1,8 @@
 {
-  "name": "aws-demo-ts",
+  "name": "aws-cdk-ts",
   "version": "0.1.0",
   "bin": {
-    "aws-demo-ts": "bin/aws-demo-ts.js"
+    "aws-cdk-ts": "bin/aws-cdk-ts.js"
   },
   "scripts": {
     "build": "tsc",
